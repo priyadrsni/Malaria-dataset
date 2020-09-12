@@ -1,2 +1,2 @@
 # Malaria-dataset
-It has images of malaria infected and uninfected images of patients
+Dataset containing images of blood cells affected and unaffected by malaria.
